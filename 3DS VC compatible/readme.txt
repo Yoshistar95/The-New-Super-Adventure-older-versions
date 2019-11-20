@@ -1,0 +1,3 @@
+This requires you to have at least a CFW allowing unsigned software running on your 3DS system!
+
+It is using virtuaNES injection method, all other methods didn't work, so it's just this one...
